@@ -1,0 +1,7 @@
+C:\Users\rzaye\Desktop\C402\C402\tapsiriq3\tapsiriq3\bin\Debug\tapsiriq3.exe.config
+C:\Users\rzaye\Desktop\C402\C402\tapsiriq3\tapsiriq3\bin\Debug\tapsiriq3.exe
+C:\Users\rzaye\Desktop\C402\C402\tapsiriq3\tapsiriq3\bin\Debug\tapsiriq3.pdb
+C:\Users\rzaye\Desktop\C402\C402\tapsiriq3\tapsiriq3\obj\Debug\tapsiriq3.csproj.AssemblyReference.cache
+C:\Users\rzaye\Desktop\C402\C402\tapsiriq3\tapsiriq3\obj\Debug\tapsiriq3.csproj.CoreCompileInputs.cache
+C:\Users\rzaye\Desktop\C402\C402\tapsiriq3\tapsiriq3\obj\Debug\tapsiriq3.exe
+C:\Users\rzaye\Desktop\C402\C402\tapsiriq3\tapsiriq3\obj\Debug\tapsiriq3.pdb
