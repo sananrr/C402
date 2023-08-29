@@ -1,0 +1,6 @@
+C:\Users\rzaye\Desktop\C402\C402\tapsiriq2\tapsiriq2\bin\Debug\tapsiriq2.exe.config
+C:\Users\rzaye\Desktop\C402\C402\tapsiriq2\tapsiriq2\bin\Debug\tapsiriq2.exe
+C:\Users\rzaye\Desktop\C402\C402\tapsiriq2\tapsiriq2\bin\Debug\tapsiriq2.pdb
+C:\Users\rzaye\Desktop\C402\C402\tapsiriq2\tapsiriq2\obj\Debug\tapsiriq2.csproj.CoreCompileInputs.cache
+C:\Users\rzaye\Desktop\C402\C402\tapsiriq2\tapsiriq2\obj\Debug\tapsiriq2.exe
+C:\Users\rzaye\Desktop\C402\C402\tapsiriq2\tapsiriq2\obj\Debug\tapsiriq2.pdb
