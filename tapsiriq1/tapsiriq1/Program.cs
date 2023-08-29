@@ -13,12 +13,12 @@ namespace tapsiriq1
             
 
             // İki ədədin cəmini tapan funksiya yazın. Funksiya dəyişənləri parametr olaraq almalıdır.
-            int toplama(int a, int b)
+            int plus(int a, int b)
             {
                 return a + b;
             }
             
-             void ededler()
+             void numbers()
             {
                 Console.Write("Enter the first number: ");
                 int num1 = Convert.ToInt32(Console.ReadLine());
@@ -26,10 +26,10 @@ namespace tapsiriq1
                 Console.Write("Enter the second number: ");
                 int num2 = Convert.ToInt32(Console.ReadLine());
 
-                int result = toplama(num1, num2);
+                int result = plus(num1, num2);
                 Console.WriteLine("The sum is: " + result);
             }
-            ededler();
+            numbers();
             Console.ReadLine();
         }
     }
