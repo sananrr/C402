@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Qeydiyyat Formu</title>
+</head>
+<body>
+    <h1>Qeydiyyat Formu</h1>
+    <form class="form">
+        <label for="name">Ad:</label>
+        <input type="text" class="name" required>
+        <br> <br>
+
+        <label for="surname">Soyad:</label>
+        <input type="text" class="surname" required>
+        <br> <br>
+
+        <label for="age">Yaş:</label>
+        <input type="number" class="age" required>
+        <br> <br>
+
+        <label for="password">Şifrə:</label>
+        <input type="password" class="password" required>
+        <br> <br>
+
+        <label for="email">Email:</label>
+        <input type="email" class="email" required>
+        <br> <br>
+
+        <label for="gender">Cinsiyyət:</label>
+        <select class="gender">
+            <option value="male">Kişi</option>
+            <option value="female">Qadın</option>
+        </select>
+        <br> <br>
+
+        <label for="hobbi">Hobbilər:</label>
+        <textarea class="hobbi"></textarea>
+        <br>
+
+        <button type="submit">Təsdiq et</button>
+        <button type="button" class="clear">Təmizlə</button>
+    </form>
+
+    <script src="form.js"></script>
+</body>
+</html>
